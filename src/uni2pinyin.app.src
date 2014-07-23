@@ -1,0 +1,8 @@
+{application, uni2pinyin, [
+        {description, "unicode chinese to pinyin"},
+        {vsn, "0.1.0"},
+        {modules, [uni2pinyin]},
+        {registered, []},
+        {applications, [kernel, stdlib]},
+        {env, []}
+    ]}.
