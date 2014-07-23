@@ -1,7 +1,7 @@
 uni2pinyin
 ==========
 
-unicode chines to pinyin
+chinese unicode to pinyin
 
 ```bash
 $ git clone https://github.com/mihawk/uni2pinyin.git
